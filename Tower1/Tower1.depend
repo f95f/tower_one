@@ -15,3 +15,14 @@
 	<stdio.h>
 	<stdlib.h>
 
+1677774371 source:c:\users\95fel\documents\dev\tower1\tower1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"entities.h"
+
+1676520442 c:\users\95fel\documents\dev\tower1\tower1\entities.h
+	<stdio.h>
+	<stdlib.h>
+

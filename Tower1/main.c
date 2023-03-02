@@ -72,7 +72,7 @@ void main(){
                 cura = rand() % 100 + 50;
                 jogador1.hp += cura;
                 jogador1.mp--;
-                printf(" > Você recuperou %d de HP.", cura);
+                printf(" > Você recuperou %d de HP.\n\n", cura);
 
                 break;
         }
